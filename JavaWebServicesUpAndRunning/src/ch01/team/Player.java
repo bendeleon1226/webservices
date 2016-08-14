@@ -4,6 +4,7 @@ public class Player {
 	private String name;
 	private String nickname;
 	
+	
 	public Player(){
 	}
 	
